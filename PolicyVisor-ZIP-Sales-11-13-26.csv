@@ -1,0 +1,241 @@
+ZIP,City,County,State,Leads,Auto Leads,Home Leads,Quoted (lists),Sold (GOAL credited)
+19013,Chester,Delaware,PA,16,8,8,2,0
+19810,Wilmington,New Castle,DE,15,15,0,3,0
+19020,Bensalem,Bucks,PA,14,12,2,4,1
+19145,Philadelphia,Philadelphia,PA,12,8,4,2,0
+19143,Philadelphia,Philadelphia,PA,11,0,11,1,0
+19808,Wilmington,New Castle,DE,11,11,0,1,0
+19026,Drexel Hill,Delaware,PA,10,7,3,2,0
+19320,Coatesville,Chester,PA,10,7,3,1,0
+19050,Lansdowne,Delaware,PA,9,5,4,4,0
+19464,Pottstown,Montgomery,PA,9,6,3,1,0
+19018,Clifton Heights,Delaware,PA,8,7,1,3,0
+19061,Marcus Hook,Delaware,PA,8,7,1,0,0
+19067,Morrisville,Bucks,PA,8,7,1,1,0
+19401,Norristown,Montgomery,PA,8,5,3,3,1
+17603,Lancaster,Lancaster,PA,7,0,7,4,2
+18974,Warminster,Bucks,PA,7,7,0,2,0
+19154,Philadelphia,Philadelphia,PA,7,4,3,2,0
+19403,Audubon,Montgomery,PA,7,4,3,2,0
+19015,Brookhaven,Delaware,PA,6,6,0,2,0
+19053,Feasterville-Trevose,Bucks,PA,6,4,2,0,0
+19063,Media,Delaware,PA,6,6,0,0,0
+19074,Norwood,Delaware,PA,6,3,3,1,0
+19125,Philadelphia,Philadelphia,PA,6,4,2,1,1
+19446,Lansdale,Montgomery,PA,6,5,1,1,0
+18618,Harveys Lake,Luzerne,PA,5,0,5,0,0
+18702,Wilkes-Barre,Luzerne,PA,5,0,5,1,1
+18940,Newtown,Bucks,PA,5,5,0,1,0
+19001,Abington,Montgomery,PA,5,4,1,1,0
+19027,Elkins Park,Montgomery,PA,5,5,0,0,0
+19055,Levittown,Bucks,PA,5,3,2,0,0
+19073,Newtown Square,Delaware,PA,5,5,0,2,0
+19082,Upper Darby,Delaware,PA,5,5,0,0,0
+19142,Philadelphia,Philadelphia,PA,5,0,5,2,2
+19146,Philadelphia,Philadelphia,PA,5,3,2,0,0
+19335,Downingtown,Chester,PA,5,4,1,2,0
+19406,King Of Prussia,Montgomery,PA,5,4,1,0,0
+18951,Quakertown,Bucks,PA,4,4,0,1,0
+18966,Southampton,Bucks,PA,4,4,0,2,1
+18969,Telford,Montgomery,PA,4,2,2,0,0
+19007,Bristol,Bucks,PA,4,3,1,1,0
+19010,Bryn Mawr,Delaware,PA,4,4,0,0,0
+19014,Aston,Delaware,PA,4,4,0,2,1
+19023,Darby,Delaware,PA,4,3,1,1,0
+19030,Fairless Hills,Bucks,PA,4,4,0,0,0
+19047,Langhorne,Bucks,PA,4,4,0,1,0
+19083,Havertown,Delaware,PA,4,4,0,0,0
+19120,Philadelphia,Philadelphia,PA,4,0,4,0,0
+19128,Philadelphia,Philadelphia,PA,4,2,2,0,0
+19135,Philadelphia,Philadelphia,PA,4,0,4,0,0
+19147,Philadelphia,Philadelphia,PA,4,1,3,0,0
+19460,Phoenixville,Chester,PA,4,3,1,1,0
+19803,Wilmington,New Castle,DE,4,4,0,1,0
+18018,Bethlehem,Northampton,PA,3,0,3,0,0
+18301,East Stroudsburg,Monroe,PA,3,0,3,0,0
+18302,East Stroudsburg,Monroe,PA,3,0,3,0,0
+18901,Doylestown,Bucks,PA,3,2,1,0,0
+18902,Doylestown,Bucks,PA,3,2,1,1,0
+18944,Perkasie,Bucks,PA,3,2,1,2,0
+19006,Huntingdon Valley,Montgomery,PA,3,3,0,1,0
+19008,Broomall,Delaware,PA,3,3,0,1,0
+19021,Croydon,Bucks,PA,3,2,1,0,0
+19033,Folsom,Delaware,PA,3,2,1,0,0
+19040,Hatboro,Montgomery,PA,3,3,0,0,0
+19064,Springfield,Delaware,PA,3,2,1,2,0
+19070,Morton,Delaware,PA,3,3,0,1,0
+19078,Ridley Park,Delaware,PA,3,3,0,0,0
+19079,Sharon Hill,Delaware,PA,3,3,0,0,0
+19087,Wayne,Delaware,PA,3,3,0,0,0
+19090,Willow Grove,Montgomery,PA,3,3,0,0,0
+19096,Wynnewood,Montgomery,PA,3,3,0,2,0
+19119,Philadelphia,Philadelphia,PA,3,3,0,1,0
+19148,Philadelphia,Philadelphia,PA,3,3,0,1,0
+19150,Philadelphia,Philadelphia,PA,3,0,3,1,0
+19380,West Chester,Chester,PA,3,3,0,2,0
+19382,West Chester,Chester,PA,3,2,1,0,0
+19438,Harleysville,Montgomery,PA,3,3,0,1,0
+19440,Hatfield,Montgomery,PA,3,3,0,1,0
+19454,North Wales,Montgomery,PA,3,3,0,0,0
+19520,Elverson,Chester,PA,3,3,0,0,0
+16661,Madera,Clearfield,PA,2,0,2,0,0
+17074,Newport,Perry,PA,2,0,2,0,0
+17103,Harrisburg,Dauphin,PA,2,0,2,0,0
+17111,Harrisburg,Dauphin,PA,2,0,2,0,0
+17202,Chambersburg,Franklin,PA,2,0,2,1,0
+17331,Hanover,York,PA,2,0,2,1,0
+17512,Columbia,Lancaster,PA,2,0,2,0,0
+18017,Bethlehem,Northampton,PA,2,0,2,1,0
+18042,Melbourne,Northampton,PA,2,0,2,0,0
+18062,Macungie,Lehigh,PA,2,0,2,0,0
+18103,Allentown,Lehigh,PA,2,0,2,0,0
+18252,Tamaqua,Schuylkill,PA,2,0,2,1,0
+18330,Effort,Monroe,PA,2,0,2,0,0
+18353,Saylorsburg,Monroe,PA,2,0,2,0,0
+18407,Carbondale,Lackawanna,PA,2,0,2,1,0
+18508,Scranton,Lackawanna,PA,2,0,2,0,0
+18640,Pittston,Luzerne,PA,2,0,2,0,0
+18938,New Hope,Bucks,PA,2,2,0,0,0
+18960,Sellersville,Bucks,PA,2,2,0,0,0
+19002,Ambler,Montgomery,PA,2,1,1,0,0
+19036,Glenolden,Delaware,PA,2,1,1,0,0
+19057,Levittown,Bucks,PA,2,2,0,1,0
+19081,Swarthmore,Delaware,PA,2,2,0,0,0
+19103,Philadelphia,Philadelphia,PA,2,2,0,0,0
+19115,Philadelphia,Philadelphia,PA,2,0,2,0,0
+19123,Philadelphia,Philadelphia,PA,2,2,0,0,0
+19131,Philadelphia,Philadelphia,PA,2,0,2,0,0
+19136,Philadelphia,Philadelphia,PA,2,0,2,0,0
+19139,Philadelphia,Philadelphia,PA,2,0,2,0,0
+19151,Philadelphia,Philadelphia,PA,2,0,2,1,0
+19311,Avondale,Chester,PA,2,2,0,0,0
+19333,Devon,Chester,PA,2,2,0,0,0
+19341,Exton,Chester,PA,2,2,0,1,0
+19348,Kennett Square,Chester,PA,2,2,0,1,0
+19363,Oxford,Chester,PA,2,2,0,1,0
+19390,West Grove,Chester,PA,2,2,0,1,0
+19426,Collegeville,Montgomery,PA,2,1,1,0,0
+19428,Conshohocken,Montgomery,PA,2,1,1,0,0
+19444,Lafayette Hill,Montgomery,PA,2,2,0,0,0
+19468,Royersford,Montgomery,PA,2,2,0,1,1
+19605,Reading,Berks,PA,2,0,2,1,0
+16616,Beccaria,Clearfield,PA,1,0,1,0,0
+16732,Gifford,Mckean,PA,1,0,1,0,0
+16901,Wellsboro,Tioga,PA,1,0,1,0,0
+16920,Elkland,Tioga,PA,1,0,1,1,0
+16922,Galeton,Potter,PA,1,0,1,0,0
+16923,Genesee,Potter,PA,1,0,1,1,0
+16929,Lawrenceville,Tioga,PA,1,0,1,0,0
+17023,Elizabethville,Dauphin,PA,1,0,1,0,0
+17038,Jonestown,Lebanon,PA,1,0,1,0,0
+17040,Landisburg,Perry,PA,1,0,1,0,0
+17042,Lebanon,Lebanon,PA,1,0,1,0,0
+17046,Lebanon,Lebanon,PA,1,0,1,0,0
+17053,Marysville,Perry,PA,1,0,1,0,0
+17055,Mechanicsburg,Cumberland,PA,1,0,1,0,0
+17078,Palmyra,Lebanon,PA,1,0,1,0,0
+17104,Harrisburg,Dauphin,PA,1,0,1,1,0
+17110,Harrisburg,Dauphin,PA,1,0,1,0,0
+17257,Shippensburg,Cumberland,PA,1,0,1,0,0
+17314,Delta,York,PA,1,0,1,0,0
+17325,Gettysburg,Adams,PA,1,0,1,0,0
+17347,Mt.Wolf,York,PA,1,0,1,1,0
+17353,Orrtanna,Adams,PA,1,0,1,0,0
+17362,Spring Grove,York,PA,1,0,1,1,0
+17363,Stewartstown,York,PA,1,0,1,0,0
+17370,York Haven,York,PA,1,0,1,0,0
+17401,York,York,PA,1,0,1,0,0
+17403,York,York,PA,1,0,1,0,0
+17406,York,York,PA,1,0,1,0,0
+17540,Leola,Lancaster,PA,1,0,1,0,0
+17551,Millersville,Lancaster,PA,1,0,1,0,0
+17552,Mount Joy,Lancaster,PA,1,0,1,0,0
+17566,Quarryville,Lancaster,PA,1,0,1,0,0
+17701,Williamsport,Lycoming,PA,1,0,1,0,0
+17702,South Williamsport,Lycoming,PA,1,0,1,0,0
+17777,Watsontown,Northumberland,PA,1,0,1,1,0
+17866,Coal Township,Northumberland,PA,1,0,1,0,0
+17878,Stillwater,Columbia,PA,1,0,1,0,0
+17959,Pa,Schuylkill,PA,1,0,1,0,0
+17976,Shenandoah,Schuylkill,PA,1,0,1,0,0
+17978,Spring Glen,Schuylkill,PA,1,0,1,0,0
+17980,Tower City,Schuylkill,PA,1,0,1,0,0
+18032,Catasauqua,Lehigh,PA,1,0,1,0,0
+18034,Center Valley,Lehigh,PA,1,0,1,0,0
+18037,Coplay,Lehigh,PA,1,0,1,0,0
+18041,East Greenville,Montgomery,PA,1,1,0,0,0
+18067,Northampton,Northampton,PA,1,0,1,0,0
+18073,Pennsburg,Montgomery,PA,1,1,0,0,0
+18074,Perkiomenville,Montgomery,PA,1,0,1,0,0
+18076,Red Hill,Montgomery,PA,1,1,0,0,0
+18077,Riegelsville,Bucks,PA,1,0,1,1,0
+18101,Allentown,Lehigh,PA,1,0,1,0,0
+18222,Drums,Luzerne,PA,1,0,1,0,0
+18229,Jim Thorpe,Carbon,PA,1,0,1,0,0
+18237,Mcadoo,Schuylkill,PA,1,0,1,0,0
+18334,Long Pond,Monroe,PA,1,0,1,0,0
+18344,Mount Pocono,Monroe,PA,1,0,1,1,1
+18346,Pocono Summit,Monroe,PA,1,0,1,0,0
+18347,Pocono Lake,Monroe,PA,1,0,1,0,0
+18355,Scotrun,Monroe,PA,1,0,1,0,0
+18360,Stroudsburg,Monroe,PA,1,0,1,0,0
+18444,Moscow,Lackawanna,PA,1,0,1,0,0
+18466,Tobyhanna,Monroe,PA,1,0,1,0,0
+18505,Scranton,Lackawanna,PA,1,0,1,0,0
+18603,Berwick,Columbia,PA,1,0,1,1,0
+18635,Nescopeck,Luzerne,PA,1,0,1,0,0
+18661,White Haven,Luzerne,PA,1,0,1,0,0
+18705,Wilkes Barre,Luzerne,PA,1,0,1,0,0
+18708,Shavertown,Luzerne,PA,1,0,1,0,0
+18914,Chalfont,Bucks,PA,1,1,0,0,0
+18930,Kintnersville,Bucks,PA,1,1,0,1,0
+18932,Line Lexington,Bucks,PA,1,0,1,0,0
+18947,Pipersville,Bucks,PA,1,1,0,0,0
+18949,Plumsteadville,Bucks,PA,1,1,0,1,0
+18964,Souderton,Montgomery,PA,1,1,0,0,0
+18968,Spinnerstown,Bucks,PA,1,0,1,0,0
+18972,Upper Black Eddy,Bucks,PA,1,0,1,0,0
+19004,Bala Cynwyd,Montgomery,PA,1,1,0,0,0
+19029,Essington,Delaware,PA,1,0,1,0,0
+19034,Fort Washington,Montgomery,PA,1,1,0,0,0
+19041,Haverford,Montgomery,PA,1,1,0,1,0
+19046,Jenkintown,Montgomery,PA,1,1,0,0,0
+19054,Levittown,Bucks,PA,1,1,0,1,0
+19056,Levittown,Bucks,PA,1,1,0,0,0
+19066,Merion Station,Montgomery,PA,1,1,0,0,0
+19072,Narberth,Montgomery,PA,1,1,0,0,0
+19075,Oreland,Montgomery,PA,1,1,0,0,0
+19089,Wayne,Delaware,PA,1,0,1,0,0
+19094,Woodlyn,Delaware,PA,1,0,1,0,0
+19095,Cedarbrook,Montgomery,PA,1,1,0,0,0
+19102,Philadelphia,Philadelphia,PA,1,1,0,0,0
+19104,Philadelphia,Philadelphia,PA,1,0,1,0,0
+19114,Philadelphia,Philadelphia,PA,1,0,1,0,0
+19118,Philadelphia,Philadelphia,PA,1,1,0,0,0
+19126,Philadelphia,Philadelphia,PA,1,0,1,0,0
+19130,Philadelphia,Philadelphia,PA,1,1,0,0,0
+19138,Philadelphia,Philadelphia,PA,1,0,1,0,0
+19152,Philadelphia,Philadelphia,PA,1,0,1,0,0
+19153,Philadelphia,Philadelphia,PA,1,0,1,0,0
+19317,Chadds Ford,Delaware,PA,1,1,0,0,0
+19330,Cochranville,Chester,PA,1,1,0,0,0
+19342,Glen Mills,Delaware,PA,1,1,0,0,0
+19350,Landenberg,Chester,PA,1,1,0,1,0
+19352,Lincoln University,Chester,PA,1,1,0,0,0
+19355,Malvern,Chester,PA,1,1,0,0,0
+19362,Nottingham,Chester,PA,1,1,0,0,0
+19365,Parkesburg,Chester,PA,1,1,0,0,0
+19373,Thornton,Delaware,PA,1,1,0,0,0
+19405,Bridgeport,Montgomery,PA,1,1,0,0,0
+19422,Blue Bell,Montgomery,PA,1,1,0,0,0
+19456,Oaks,Montgomery,PA,1,0,1,0,0
+19462,Plymouth Meeting,Montgomery,PA,1,1,0,1,0
+19465,Pottstown,Chester,PA,1,1,0,0,0
+19473,Schwenksville,Montgomery,PA,1,1,0,0,0
+19475,Spring City,Chester,PA,1,0,1,0,0
+19518,Douglassville,Berks,PA,1,0,1,0,0
+19522,Fleetwood,Berks,PA,1,0,1,0,0
+19601,Reading,Berks,PA,1,0,1,0,0
+19602,Reading,Berks,PA,1,0,1,0,0
+19606,Reading,Berks,PA,1,0,1,0,0
+19807,Wilmington,New Castle,DE,1,1,0,0,0

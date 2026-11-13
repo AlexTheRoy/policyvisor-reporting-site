@@ -6,17 +6,109 @@
     {
       "source": "/(.*)",
       "headers": [
-        { "key": "X-Content-Type-Options", "value": "nosniff" },
-        { "key": "X-Frame-Options", "value": "SAMEORIGIN" },
-        { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" },
-        { "key": "X-Robots-Tag", "value": "noindex, nofollow" }
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow"
+        }
       ]
     },
     {
       "source": "/",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, must-revalidate"
+        }
       ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/PolicyVisor-Campaign-Overview-Last-3-Months-10-12-26",
+      "destination": "/PolicyVisor-Campaign-Overview-Last-3-Months-11-13-26",
+      "permanent": false
+    },
+    {
+      "source": "/PolicyVisor-Campaign-Overview-Last-3-Months-10-12-26.html",
+      "destination": "/PolicyVisor-Campaign-Overview-Last-3-Months-11-13-26",
+      "permanent": false
+    },
+    {
+      "source": "/PolicyVisor-Auto-Campaign-Performance-Last-3-Months-10-12-26",
+      "destination": "/PolicyVisor-Auto-Campaign-Performance-Last-3-Months-11-13-26",
+      "permanent": false
+    },
+    {
+      "source": "/PolicyVisor-Auto-Campaign-Performance-Last-3-Months-10-12-26.html",
+      "destination": "/PolicyVisor-Auto-Campaign-Performance-Last-3-Months-11-13-26",
+      "permanent": false
+    },
+    {
+      "source": "/PolicyVisor-Home-Campaign-Performance-Last-3-Months-10-12-26",
+      "destination": "/PolicyVisor-Home-Campaign-Performance-Last-3-Months-11-13-26",
+      "permanent": false
+    },
+    {
+      "source": "/PolicyVisor-Home-Campaign-Performance-Last-3-Months-10-12-26.html",
+      "destination": "/PolicyVisor-Home-Campaign-Performance-Last-3-Months-11-13-26",
+      "permanent": false
+    },
+    {
+      "source": "/PolicyVisor-Home-Weekend-Campaign-Performance-Last-3-Months-10-12-26",
+      "destination": "/PolicyVisor-Home-Weekend-Campaign-Performance-Last-3-Months-11-13-26",
+      "permanent": false
+    },
+    {
+      "source": "/PolicyVisor-Home-Weekend-Campaign-Performance-Last-3-Months-10-12-26.html",
+      "destination": "/PolicyVisor-Home-Weekend-Campaign-Performance-Last-3-Months-11-13-26",
+      "permanent": false
+    },
+    {
+      "source": "/PolicyVisor-SEO-Audit-10-12-26",
+      "destination": "/PolicyVisor-SEO-Audit-11-13-26",
+      "permanent": false
+    },
+    {
+      "source": "/PolicyVisor-SEO-Audit-10-12-26.html",
+      "destination": "/PolicyVisor-SEO-Audit-11-13-26",
+      "permanent": false
+    },
+    {
+      "source": "/PolicyVisor-PA-Demographic-Research-10-12-26",
+      "destination": "/PolicyVisor-PA-Demographic-Research-11-13-26",
+      "permanent": false
+    },
+    {
+      "source": "/PolicyVisor-PA-Demographic-Research-10-12-26.html",
+      "destination": "/PolicyVisor-PA-Demographic-Research-11-13-26",
+      "permanent": false
+    },
+    {
+      "source": "/PolicyVisor-PA-Flood-Winter-Storm-Risk-10-12-26",
+      "destination": "/PolicyVisor-PA-Flood-Winter-Storm-Risk-11-13-26",
+      "permanent": false
+    },
+    {
+      "source": "/PolicyVisor-PA-Flood-Winter-Storm-Risk-10-12-26.html",
+      "destination": "/PolicyVisor-PA-Flood-Winter-Storm-Risk-11-13-26",
+      "permanent": false
+    },
+    {
+      "source": "/PolicyVisor-PA-ZIP-Data-10-12-26.csv",
+      "destination": "/PolicyVisor-PA-ZIP-Data-11-13-26.csv",
+      "permanent": false
     }
   ]
 }
