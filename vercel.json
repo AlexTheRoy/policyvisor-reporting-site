@@ -37,42 +37,82 @@
   "redirects": [
     {
       "source": "/PolicyVisor-Campaign-Overview-Last-3-Months-10-12-26",
-      "destination": "/PolicyVisor-Campaign-Overview-Last-3-Months-11-13-26",
+      "destination": "/PolicyVisor-Campaign-Overview-All-Time-11-13-26",
       "permanent": false
     },
     {
       "source": "/PolicyVisor-Campaign-Overview-Last-3-Months-10-12-26.html",
-      "destination": "/PolicyVisor-Campaign-Overview-Last-3-Months-11-13-26",
+      "destination": "/PolicyVisor-Campaign-Overview-All-Time-11-13-26",
+      "permanent": false
+    },
+    {
+      "source": "/PolicyVisor-Campaign-Overview-Last-3-Months-11-13-26",
+      "destination": "/PolicyVisor-Campaign-Overview-All-Time-11-13-26",
+      "permanent": false
+    },
+    {
+      "source": "/PolicyVisor-Campaign-Overview-Last-3-Months-11-13-26.html",
+      "destination": "/PolicyVisor-Campaign-Overview-All-Time-11-13-26",
       "permanent": false
     },
     {
       "source": "/PolicyVisor-Auto-Campaign-Performance-Last-3-Months-10-12-26",
-      "destination": "/PolicyVisor-Auto-Campaign-Performance-Last-3-Months-11-13-26",
+      "destination": "/PolicyVisor-Auto-Campaign-Performance-All-Time-11-13-26",
       "permanent": false
     },
     {
       "source": "/PolicyVisor-Auto-Campaign-Performance-Last-3-Months-10-12-26.html",
-      "destination": "/PolicyVisor-Auto-Campaign-Performance-Last-3-Months-11-13-26",
+      "destination": "/PolicyVisor-Auto-Campaign-Performance-All-Time-11-13-26",
+      "permanent": false
+    },
+    {
+      "source": "/PolicyVisor-Auto-Campaign-Performance-Last-3-Months-11-13-26",
+      "destination": "/PolicyVisor-Auto-Campaign-Performance-All-Time-11-13-26",
+      "permanent": false
+    },
+    {
+      "source": "/PolicyVisor-Auto-Campaign-Performance-Last-3-Months-11-13-26.html",
+      "destination": "/PolicyVisor-Auto-Campaign-Performance-All-Time-11-13-26",
       "permanent": false
     },
     {
       "source": "/PolicyVisor-Home-Campaign-Performance-Last-3-Months-10-12-26",
-      "destination": "/PolicyVisor-Home-Campaign-Performance-Last-3-Months-11-13-26",
+      "destination": "/PolicyVisor-Home-Campaign-Performance-All-Time-11-13-26",
       "permanent": false
     },
     {
       "source": "/PolicyVisor-Home-Campaign-Performance-Last-3-Months-10-12-26.html",
-      "destination": "/PolicyVisor-Home-Campaign-Performance-Last-3-Months-11-13-26",
+      "destination": "/PolicyVisor-Home-Campaign-Performance-All-Time-11-13-26",
+      "permanent": false
+    },
+    {
+      "source": "/PolicyVisor-Home-Campaign-Performance-Last-3-Months-11-13-26",
+      "destination": "/PolicyVisor-Home-Campaign-Performance-All-Time-11-13-26",
+      "permanent": false
+    },
+    {
+      "source": "/PolicyVisor-Home-Campaign-Performance-Last-3-Months-11-13-26.html",
+      "destination": "/PolicyVisor-Home-Campaign-Performance-All-Time-11-13-26",
       "permanent": false
     },
     {
       "source": "/PolicyVisor-Home-Weekend-Campaign-Performance-Last-3-Months-10-12-26",
-      "destination": "/PolicyVisor-Home-Weekend-Campaign-Performance-Last-3-Months-11-13-26",
+      "destination": "/PolicyVisor-Home-Weekend-Campaign-Performance-All-Time-11-13-26",
       "permanent": false
     },
     {
       "source": "/PolicyVisor-Home-Weekend-Campaign-Performance-Last-3-Months-10-12-26.html",
-      "destination": "/PolicyVisor-Home-Weekend-Campaign-Performance-Last-3-Months-11-13-26",
+      "destination": "/PolicyVisor-Home-Weekend-Campaign-Performance-All-Time-11-13-26",
+      "permanent": false
+    },
+    {
+      "source": "/PolicyVisor-Home-Weekend-Campaign-Performance-Last-3-Months-11-13-26",
+      "destination": "/PolicyVisor-Home-Weekend-Campaign-Performance-All-Time-11-13-26",
+      "permanent": false
+    },
+    {
+      "source": "/PolicyVisor-Home-Weekend-Campaign-Performance-Last-3-Months-11-13-26.html",
+      "destination": "/PolicyVisor-Home-Weekend-Campaign-Performance-All-Time-11-13-26",
       "permanent": false
     },
     {
